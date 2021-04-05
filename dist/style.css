@@ -55,3 +55,19 @@ img{
   transform:translatey(-50%);
   border: 8px solid white;
 }
+._icon{
+  background-color: #2368ee;
+    width: 15px;
+    height:5px;
+    
+}
+.sharing{
+  width:35px;
+  height:35px;
+ 
+  border-radius:0;
+  border:0;
+  
+
+}
+ 
