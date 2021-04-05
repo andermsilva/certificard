@@ -1,0 +1,57 @@
+body{
+  background-color:#1eb8ff;
+  font-family: 'Noto Sans JP'
+}
+div{
+  margin:15px;
+  padding:15px;
+ 
+  background-color:#DCDCDC ;
+  border-radius:5px;
+}
+
+
+section {
+  -webkit-box-shadow:6px 6px 15px -1px rgba(0,0,0,0.55);
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  max-width:500px;
+  margin-top:100px;
+  background-color:white;
+  padding:15px;
+  border-radius:5px;
+}
+.extra{
+  margin-top:10px;
+}
+h1{
+  text-align:center;
+  font-size:24px;
+}
+a{
+  color:black;
+  text-decoration:none;
+}
+a:hover{
+  color:#2368ee;
+}
+h2{
+  font-size:18px;
+}
+header{
+  background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Milkyway_pan.jpg/900px-Milkyway_pan.jpg');
+  background-size:cover;
+  height:80px;
+   border-radius:5px;
+}
+img{
+  width:150px;
+  height:150px;
+  border-radius:100%;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  transform:translatey(-50%);
+  border: 8px solid white;
+}
